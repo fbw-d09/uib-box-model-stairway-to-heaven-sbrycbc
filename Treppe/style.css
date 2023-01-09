@@ -1,0 +1,59 @@
+.box-1 {
+
+    width: 200px;
+    height: 200px;
+    background: tomato;  
+    padding: 10px;
+
+}
+.box-innen-1 {
+    background: yellow;
+    width: 200px;
+    height: 200px;
+ }
+
+.box-2 {
+    width: 420px;
+    height: 200px;
+    background: tomato;
+    padding: 10px;
+
+
+}
+ 
+.box-innen-2 {
+    background: yellow;
+    width: 200px;
+    height: 200px;
+    margin-left: 220px;
+ 
+}
+.box-3 {
+    width: 640px;
+    height: 200px;
+    background: tomato;
+    padding: 10px;
+
+ }
+ 
+ .box-innen-3{
+    background: yellow;
+    width: 200px;
+    height: 200px;
+    margin-left: 440px;
+ }
+ .box-4 {
+    width: 860px;
+    height: 200px;
+    background: tomato;
+    padding: 10px;
+
+ }
+ 
+ .box-innen-4 {
+    background: yellow;
+    width: 200px;
+    height: 200px;
+    margin-left: 660px;
+ }
+
